@@ -1,5 +1,5 @@
 import questions from "./questions.js";
-import Quiz from "./QuizClass.js";
+import Quiz from "./QuizConstructor";
 
 
 const questionNumber = document.getElementById("question-number")
